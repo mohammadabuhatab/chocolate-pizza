@@ -1,0 +1,94 @@
+body{
+    margin:100px;
+    width: 100%;
+}
+h2{
+    font-family: 'Yellowtail', cursive;
+    font: bold;
+    font-size: 30px;
+}
+h1{
+    font: bold;
+    font-size: 40px; 
+}
+h3{
+    font: bold;
+    font-size: 20px; 
+    text-align: left; 
+}
+.clear{
+    clear: both;
+    margin: 50px;
+}
+
+header{
+    display: inline-flex;
+    margin-right: 300px;
+}
+main{
+    margin-right: 450px;
+}
+#logo{
+    float: left;
+    
+}
+#rightLogos{
+    float: right;
+    margin-left: 390px;
+}
+#wifi{
+    margin-left: 10px;
+}
+#topOfBody{
+    display: inline-flex;
+}
+#subject{
+    float: left; 
+}
+#print{
+    float: right;
+    margin-left: 550px;
+    display: inline-flex;
+}
+#mainParagraph{
+    color: gray;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color:black;
+  }
+  
+  
+  
+  .top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
+  
+#checkBox {
+    margin-top: 50px;
+   display: inline-flex;
+   font-family: 'Noto Sans KR', sans-serif;
+   text-align: left;
+  }
+  #rightGroup{
+      margin-left: 300px;
+  }
+  #vanessa{
+    display: inline-flex;  
+  }
+  #share{
+      float: right;
+      margin-left: 30px;
+      background-color: brown;
+  }
+  footer{
+     margin-right: 450px;
+     text-align: center;
+  }
+  a{
+      background-color: grey;
+      border: 30px;
+  }
